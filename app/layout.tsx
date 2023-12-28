@@ -5,7 +5,7 @@ import { Metadata } from "next"
 
 export const metadata: Metadata = {
 	title: {
-		default: "Bilguun Tsolmonbaatar",
+		default: "Jackie Zhang",
 		template: "%s | bilguun.com",
 	},
 };
