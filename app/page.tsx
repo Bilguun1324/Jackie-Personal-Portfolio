@@ -33,20 +33,14 @@ export default function Home() {
       </h1>
 
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
-	  <h1 className="z-10 text-2xl duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-3xl md:text-3xl whitespace-nowrap bg-clip-text mt-3">
+      <h1 className="z-10 text-2xl duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-3xl md:text-3xl whitespace-nowrap bg-clip-text mt-3">
         Full Stack Developer
       </h1>
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
-          <br /> 
-		  Hello, my name is Bilguun, I'm first graduate of{" "}
-          <Link
-            target="_blank"
-            href="https://pinecone.mn/"
-            className="underline duration-500 hover:text-zinc-300"
-          >
-            Nest Academy
-          </Link>
+          <br />
+          Hello, my name is Bilguun, I am a student at UNSW majoring in Computer
+          Science
         </h2>
       </div>
     </div>
